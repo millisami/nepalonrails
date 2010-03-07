@@ -1,0 +1,7 @@
+title: Niraj Blogzine
+permalink: /blog/:year/:month/:day/:title
+pygments: true
+markdown: rdiscount
+auto: true
+exclude:
+  README.md
