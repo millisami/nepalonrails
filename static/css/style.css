@@ -41,7 +41,10 @@ a:hover {
 #content {
 	margin: 5px 20% 5% 20%;
 }
-
+.highlight {
+    font-size: 16px;
+    line-height: 20px;
+}
 #content_body {
 	margin: 1em;
 }
